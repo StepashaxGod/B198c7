@@ -242,7 +242,7 @@ if __name__ == "__main__":
     Patient Name: Stepan Nikonov
     DOB: 03/14/1978
     Phone number is (415) 555-0198
-    Email: john.smith@email.com
+    Email: stepan.nikonov@email.com
     MRN: A1234567
 
     On 01/10/2024 the patient was started on metformin 500 mg BID.
