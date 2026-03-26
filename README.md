@@ -18,7 +18,7 @@ START VIRTUAL ENVIRONMENT
 DOWNLOAD DEPENDENCIES 
 
     python -m pip install --upgrade pip setuptools wheel
-    python -m pip install -r requirements.txt
+    python -m pip install presidio-analyzer presidio-anonymizer spacy
     python -m spacy download en_core_web_sm
 
 RUN CODE 
