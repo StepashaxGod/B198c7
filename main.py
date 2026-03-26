@@ -258,6 +258,6 @@ if __name__ == "__main__":
     print("\n=== FINAL DE-IDENTIFIED TEXT ===")
     print(result["final_deidentified_text"])
 
-    print("\n=== ALL CANDIDATES ===")
+    print("\n=== ALL SPAN ENTITIES ===")
     for item in result["all_candidates"]:
         print(item)
